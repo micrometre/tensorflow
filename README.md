@@ -25,7 +25,7 @@ This repository contains a collection of TensorFlow tutorials and machine learni
 
 1. Clone this repository:
 ```bash
-git clone 
+git clone https://github.com/micrometre/tensorflow
 cd tensorflow
 ```
 
