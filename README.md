@@ -5,7 +5,6 @@ This repository contains a collection of TensorFlow tutorials and machine learni
 ## 📁 Project Structure
 
 ```
-├── object_detection.ipynb          # Object detection using TensorFlow Hub models
 ├── requirements.txt                # Project dependencies
 └── notbboks/                      # Collection of tutorial notebooks
     ├── classification.ipynb       # Classification examples
