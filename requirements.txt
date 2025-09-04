@@ -1,0 +1,8 @@
+tensorflow
+tensorflow-hub
+numpy
+matplotlib
+seaborn
+scikit-learn
+six
+ipython
