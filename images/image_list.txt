@@ -1,0 +1,23 @@
+Downloaded Images for Object Detection
+========================================
+
+Filename: grace_hopper.jpg
+Description: Grace Hopper - computer scientist
+Source URL: https://storage.googleapis.com/download.tensorflow.org/example_images/grace_hopper.jpg
+----------------------------------------
+Filename: yellow_labrador.jpg
+Description: Yellow Labrador dog
+Source URL: https://storage.googleapis.com/download.tensorflow.org/example_images/YellowLabradorLooking_new.jpg
+----------------------------------------
+Filename: beetles_plate.jpg
+Description: British beetles scientific illustration
+Source URL: https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Coleoptera_of_the_British_islands_%28Plate_125%29_%288592917784%29.jpg
+----------------------------------------
+Filename: library_campus.jpg
+Description: University library building
+Source URL: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Biblioteca_Maim%C3%B3nides%2C_Campus_Universitario_de_Rabanales_007.jpg/1024px-Biblioteca_Maim%C3%B3nides%2C_Campus_Universitario_de_Rabanales_007.jpg
+----------------------------------------
+Filename: british_birds.jpg
+Description: British birds scientific illustration
+Source URL: https://upload.wikimedia.org/wikipedia/commons/0/09/The_smaller_British_birds_%288053836633%29.jpg
+----------------------------------------
